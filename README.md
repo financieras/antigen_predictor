@@ -92,6 +92,8 @@ antigen_predictor/
 ├── sample_input/
 │   └── covid_proteins.fasta
 │
+├── glossary_of_terms.md
+├── project_viability_analysis.md
 └── README.md
 ```
 
